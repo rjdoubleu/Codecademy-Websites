@@ -13,7 +13,36 @@ h1 {
     color: white; 
 }
 
-.Download {
+.download {
     font-size: 16px;
     color: aquamarine;
+    margin-bottom: 20px;
+}
+
+.movie {
+    text-align: center;
+    margin: 30px auto;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.outdoors {
+    text-align: center;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    margin: 10px auto;
+}
+
+footer{
+    text-align: right;
 }
